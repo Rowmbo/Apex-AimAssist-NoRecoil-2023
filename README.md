@@ -1,3 +1,5 @@
+If anyone is willing to provide guest access to an account that has a master weapon, please write to me. It's hard to test a program when you have nothing to test it on.
+
 # Apex-AimAssist-NoRecoil-2023
 
 (Apparently AutoHotKey is detected and will lead to ban)
